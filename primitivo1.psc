@@ -1,0 +1,3 @@
+Algoritmo primitivo1
+
+FinAlgoritmo
